@@ -10,6 +10,7 @@ import defaultRouter from '@gqlapp/router-client-react';
 import payments from '@gqlapp/payments-client-react';
 import authentication from '@gqlapp/authentication-client-react';
 import '@gqlapp/favicon-common';
+import '@gqlapp/assets-common';
 
 const post = require('@gqlapp/post-client-react').default;
 const pageNotFound = require('@gqlapp/page-not-found-client-react').default;
